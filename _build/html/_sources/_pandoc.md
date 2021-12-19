@@ -5,7 +5,7 @@ geometry: margin=2cm
 number-sections: 2 
 toc: false
 documentclass: extarticle
-fontsize: 17pt
+fontsize: 14pt
 rights: © 2021 Chaojie Wang
 lang: en-US
 #lang: zh-CN
