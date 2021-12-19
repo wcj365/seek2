@@ -1,8 +1,6 @@
 ---
 title: THE PROBLEMS OF PHILOSOPHY
 author: Bertrand Russell
-CJKmainfont: "AR PL UKai TW" 
-mainfont: "AR PL UKai TW" 
 geometry: margin=2cm
 number-sections: 2 
 toc: false
