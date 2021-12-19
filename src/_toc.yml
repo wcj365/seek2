@@ -1,7 +1,7 @@
 format: jb-book
 root: index
 chapters:
-- file: 000_preface
+- file: 00_preface
 - file: '01'
 - file: '02'
 - file: '03'
