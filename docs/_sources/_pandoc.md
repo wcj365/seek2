@@ -5,20 +5,13 @@ geometry: margin=2cm
 number-sections: 2 
 toc: false
 documentclass: extarticle
-fontsize: 14pt
+fontsize: 12pt
 rights: © 2021 Chaojie Wang
 lang: en-US
-#lang: zh-CN
 ---
 
-\vspace{5cm}
-\begin{center}
 
-路漫漫其修远兮，吾将上下而求索。
-
-\vspace{8cm}
-
-https://wcj365.github.io/seek
+https://wcj365.github.io/seek2
 
 © 2022 Chaojie Wang
 
