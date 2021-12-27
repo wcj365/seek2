@@ -10,3 +10,4 @@
 
 - [pdf](https://wcj365.github.io/seek2/offline/the_problems_of_philosophy.pdf)
 - [epub](https://wcj365.github.io/seek2/offline/the_problems_of_philosophy.epub)
+- [docx](https://wcj365.github.io/seek2/offline/the_problems_of_philosophy.docx)
