@@ -1,7 +1,7 @@
 title: THE PROBLEMS OF PHILOSOPHY
-author: Bertrand Russell 
+author: <a href="mailto://wcj365@gmail.com">Dr. Chaojie Wang</a>
 email: wcj365@gmail.com
-logo: yinyang.png
+logo: philosophy.png
 copyright: "2022" 
 repository:
   url                       : https://github.com/wcj365/seek
@@ -16,12 +16,12 @@ execute:
   execute_notebooks         : force  # Whether to execute notebooks at build time. Must be one of ("auto", "force", "cache", "off")
 
 html:
-  favicon                   : "yinyang.png"  # A path to a favicon image
+  favicon                   : "philosophy.png"  # A path to a favicon image
   navbar_number_sections    : true  # Add a number to each section in your left navbar
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : false  # Whether to add a link to your repository button
   use_issues_button         : false  # Whether to add an "open an issue" button
-  extra_navbar              : "作者：老子"   # Will be displayed underneath the left navbar.
+  extra_navbar              : <a herf="https://en.wikipedia.org/wiki/Bertrand_Russell">Bertrand Russell</a>"   # Will be displayed underneath the left navbar.
   extra_footer              : ""  # Will be displayed underneath the footer.
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
