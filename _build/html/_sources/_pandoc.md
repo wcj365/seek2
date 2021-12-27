@@ -10,10 +10,12 @@ rights: © 2021 Chaojie Wang
 lang: en-US
 ---
 
+\vspace{13cm}
+\begin{center}
 
-https://wcj365.github.io/seek2
+https://www.wcj365.xyz/philosophy/
 
-© 2022 Chaojie Wang
+© 2022 Dr. Chaojie Wang
 
 \end{center}
 
