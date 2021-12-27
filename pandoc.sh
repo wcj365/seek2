@@ -6,11 +6,12 @@ python pandoc.py
 
 # Step 2. Generate PDF version of the book
 
-pandoc --pdf-engine=xelatex `find _pandoc -name '*.md' | sort` --toc-depth=2 -V toc-title -o docs/offline/the_problems_of_philosophy.pdf
-pandoc --pdf-engine=xelatex `find _pandoc -name '*.md' | sort` --toc-depth=2 -o docs/offline/the_problems_of_philosophy.epub
+pandoc --pdf-engine=xelatex `find _pandoc -name '*.md' | sort` -o docs/offline/the_problems_of_philosophy.pdf
+pandoc --pdf-engine=xelatex `find _pandoc -name '*.md' | sort` -o docs/offline/the_problems_of_philosophy.epub
+pandoc --pdf-engine=xelatex `find _pandoc -name '*.md' | sort` -o docs/offline/the_problems_of_philosophy.docx
 
 # Step 3. Push the changes to GitHub
 
 git add .
-git commit -m "Built the PDF verion of the book."
+git commit -m "Built the pdf/epub/docx verion of the book."
 git push

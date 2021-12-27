@@ -14,7 +14,7 @@
 
 cd docs
 
-zip ../dao_de_jing.zip -r *
+zip ../philosophy.zip -r *
 
 cd ../
 
