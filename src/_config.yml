@@ -1,5 +1,5 @@
 title: THE PROBLEMS OF PHILOSOPHY
-author: <a href="mailto://wcj365@gmail.com">Dr. Chaojie Wang</a>
+author: <a href="mailto://wcj365@gmail.com" target="_blank">Dr. Chaojie Wang</a>
 email: wcj365@gmail.com
 logo: philosophy.png
 copyright: "2022" 
@@ -21,7 +21,7 @@ html:
   use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
   use_repository_button     : false  # Whether to add a link to your repository button
   use_issues_button         : false  # Whether to add an "open an issue" button
-  extra_navbar              : By <a href="https://en.wikipedia.org/wiki/Bertrand_Russell">Bertrand Russell</a>   # Will be displayed underneath the left navbar.
+  extra_navbar              : By <a href="https://en.wikipedia.org/wiki/Bertrand_Russell" target="_blank">Bertrand Russell</a>   # Will be displayed underneath the left navbar.
   extra_footer              : ""  # Will be displayed underneath the footer.
   google_analytics_id       : ""  # A GA id that can be used to track book views.
   home_page_in_navbar       : false  # Whether to include your home page in the left Navigation Bar
