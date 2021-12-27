@@ -26,7 +26,6 @@ for file in files:
         continue
     else:
         target = TARGET_FOLDER + "/" + file.split("/")[-1]
-        shutil.copyfile(file, target)
         with open(file, "r") as f:
             lines = f.readlines()
 
